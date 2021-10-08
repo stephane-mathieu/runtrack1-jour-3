@@ -1,0 +1,80 @@
+*
+h1{
+    font-family:fantasy ;
+}
+h1{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+}
+h1{
+    color:white;
+    margin-bottom: 15px;
+}
+body{
+    background-image: url(http://image.noelshack.com/fichiers/2021/40/3/1633523792-richard-horvath-razu-r66vuc-unsplash.jpg)
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    color:white;
+}
+p{
+    text-align: center;
+}
+p{
+    font-size: 40px;
+}
+p{
+    text-shadow: 5px 5px red;
+}
+.box{
+    display:flex;
+    flex-direction:row-reverse;
+}
+ul{
+    color:white ;
+}
+ul{
+    font-size: 30px;
+}
+ul{
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 40px;
+}
+ul :hover{
+    background-color: black;
+    color: blue;
+}
+ul{
+    text-shadow: 1px 1px red
+}
+ul{
+    background-image: url(http://image.noelshack.com/fichiers/2021/40/3/1633531069-eberhard-grossgasteiger-xc7ho08ryf4-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+ul{
+    border-radius: 13px;
+}
+ul{
+    padding: 30px;
+}
+.laplateforme img {
+    width: 220px;
+    height: 220px;
+    float: left;
+}
+li {
+    list-style: none;
+}
+p{
+    margin-bottom: 13px;
+}

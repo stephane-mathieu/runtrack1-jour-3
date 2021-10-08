@@ -1,0 +1,74 @@
+body {background-image: url("https://wallpapercave.com/wp/wp6168977.jpg");
+    overflow: hidden;
+}
+
+.avatar{display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 45px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color: rgb(83, 145, 94);
+    
+}
+
+.inmyblock{height: 100%;
+}
+
+.testeur{display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 8px;
+    margin-bottom: 60%;
+}
+
+.parkour {background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 30%;
+    margin-top: 10%;
+}
+.parkour:hover{
+    box-shadow: 0 11px 11px rgba(84, 119, 85); 
+    transition: box-shadow .5s;
+  }
+
+.parkour p{ display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 3%;
+    margin-top: -2%;
+}
+
+.get {background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 30%;
+    margin-top: 10%;
+}
+.get:hover{
+    box-shadow: 0 11px 11px rgba(84, 119, 85); 
+    transition: box-shadow .5s;
+  }
+
+.get p{ display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 3%;
+}
+
+.mots {background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width:33%;
+    margin-top: 10%;
+}
+.mots:hover{
+    box-shadow: 0 11px 11px rgb(84, 119, 85); 
+    transition: box-shadow .5s;
+  }
+
+.mots p{ display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 3%;
+    margin-top: 4%;
+}

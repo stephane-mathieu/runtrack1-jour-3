@@ -1,0 +1,66 @@
+
+body {background-color: rgb(31, 30, 30);
+    /* overflow: hidden; */
+    margin:0;
+    padding:0;
+}
+
+
+.container{display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.inmyblock {background-color: rgb(153, 177, 151);
+    display: flex;
+    flex-direction: column;
+   height: 70vh; 
+   width: 40%; 
+   border: hidden;
+   border-radius: 10px;
+}
+.parkour p, .get p{margin-top: -1%;
+}
+.mots {width:90%
+}
+
+
+.avatar{display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    letter-spacing: 8px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(224, 209, 180);
+    position: fixed;
+}
+
+.testeur {margin-top: 20%;
+    overflow: scroll;
+    text-align: justify;
+    margin-bottom: 10%; 
+    margin-left: 10%;
+    
+}
+
+.jungle {
+    height: 70%;  
+}
+
+.img-jungle {height: 100%;
+width: 100%;
+border: hidden;
+border-radius: 10px;
+}
+
+img {
+    opacity: 0.5;
+  }
+  
+  img:hover {
+    opacity: 0.8;
+  }
+

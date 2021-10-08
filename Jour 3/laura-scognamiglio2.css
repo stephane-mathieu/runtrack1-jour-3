@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+    background: coral;
+    text-align: center;
+    
+}
+
+h1{
+    color: rgba(29, 161, 29, 0.863);
+    background-color: darkslateblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1:hover{
+    box-shadow: 0 8px 16px 0 rgba(90, 35, 35, 0.432), 0 6px 20px 0 rgba(23, 91, 131, 0.521);
+}
+img{
+    cursor: pointer;
+    margin-top: 3%;
+    border: 6px solid rgba(100, 237, 123, 0.623);
+    border-radius: 6px;
+   
+}
+
+ul{
+    margin-top: 3%;
+    color: darkgreen;
+}

@@ -1,0 +1,35 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body, html{
+    background: linear-gradient(rgb(255, 255, 255),#d4fc79);
+    width: 100%;
+    height: 100%;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+ }
+
+h1{margin-top: 4%;
+    font-size: 50px;
+}
+h2{font-family: 'Birthstone', cursive;
+    font-size: 30px;
+}
+
+ img{margin-top: 5%;
+    margin-bottom: 3%;
+    border: #4B0082;
+    border-radius: 8px;
+ }
+
+ img:hover{
+    -webkit-box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 50px 50px 49px 50px rgba(0,0,0,0), 50px 50px 49px 50px rgba(0,0,0,0); 
+box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 50px 50px 49px 50px rgba(0,0,0,0), 50px 50px 49px 50px rgba(0,0,0,0);
+background: #9400D3;
+ }
+
+ ul{
+     text-decoration: none;
+ }
+

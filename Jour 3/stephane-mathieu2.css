@@ -1,0 +1,50 @@
+    @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+    .titreh1 {
+        text-align: center;
+        font-size: 200%;
+        color: white;
+        text-shadow: 0.1em 0.1em #333
+    }
+    
+    body {
+        background: url(fond2.gif) no-repeat fixed left;
+    }
+    
+    .card-text {
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 0.1em 0.1em rgb(230, 17, 17);
+        padding: 0;
+        align-content: space-around;
+    }
+    
+    .Objectif {
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 0.1em 0.1em rgb(230, 17, 17);
+        margin: 10px 50px 20px;
+        padding: 0;
+    }
+    
+    .card-image {
+        background: url("r34.jpg");
+    }
+    
+    .card-loisir {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 0.1em 0.1em rgb(17, 38, 230);
+        margin: 10px 50px 20px;
+        padding: 0;
+    }
+    
+    p {
+        font-family: 'Architects Daughter', cursive;
+    }
+    
+    body :hover {
+        background: rgba(255, 255, 255, 0.116);
+    }
